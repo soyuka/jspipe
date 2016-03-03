@@ -1,0 +1,23 @@
+{
+  "name": "@soyuka/jspipe",
+  "version": "1.0.0",
+  "description": "Pipe javascript in, get output out",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/soyuka/jspipe.git"
+  },
+  "keywords": [
+    "vm",
+    "stream"
+  ],
+  "author": "soyuka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soyuka/jspipe/issues"
+  },
+  "homepage": "https://github.com/soyuka/jspipe#readme"
+}
